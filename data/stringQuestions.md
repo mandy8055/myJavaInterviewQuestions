@@ -1,0 +1,9 @@
+# Strings in java
+
+| SNO | Questions link                                                                                                                                                                                                                                      |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | [How would you differentiate between a String, StringBuffer, and a StringBuilder?](https://www.interviewbit.com/java-interview-questions/#how-would-you-differentiate-between-a-string-stringbuffer-and-a-stringbuilder)                            |
+| 2.  | [Even if String is less memory and time efficient than StringBuilder why shall we use it often?](https://stackabuse.com/string-vs-stringbuilder-vs-stringbuffer-in-java/)                                                                           |
+| 3.  | [Apart from the security aspect, what are the reasons behind making strings immutable in Java?](https://www.interviewbit.com/java-interview-questions/#apart-from-the-security-aspect-what-are-the-reasons-behind-making-strings-immutable-in-java) |
+| 4.  | [How is the creation of a String using new() different from that of a literal?](https://www.interviewbit.com/java-interview-questions/#how-is-the-creation-of-a-string-using-new-different-from-that-of-a-literal)                                  |
+| 5.  | [Why is the character array preferred over string for storing confidential information?](https://www.interviewbit.com/java-interview-questions/#why-is-the-character-array-preferred-over-string-for-storing-confidential-information)              |

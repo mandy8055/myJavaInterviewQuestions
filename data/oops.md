@@ -1,0 +1,7 @@
+# Object Oriented Programming concepts(OOPs)
+| SNO | Questions link                                                                                                                                                                                                                                 |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | [Briefly explain the concept of constructor overloading.](https://www.interviewbit.com/java-interview-questions/#briefly-explain-the-concept-of-constructor-overloading)                                                                       |
+| 2.  | [Comment on method overloading and overriding by citing relevant examples.](https://www.interviewbit.com/java-interview-questions/#comment-on-method-overloading-and-overriding-by-citing-relevant-examples)                                   |
+| 3.  | [In Java, static as well as private method overriding is possible. Comment on the statement.](https://www.interviewbit.com/java-interview-questions/#in-java-static-as-well-as-private-method-overriding-is-possible-comment-on-the-statement) |
+| 4.  | [Why Java is not 100% Object-oriented?](https://www.edureka.co/blog/interview-questions/java-interview-questions/#why-java-100%-oriented)                                                                                                      |
