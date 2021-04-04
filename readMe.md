@@ -9,3 +9,4 @@
 | 5.  | **[Exception Handling](/data/exceptionHandling.md)**                                        |
 | 6.  | **[Strings](/data/stringQuestions.md)**                                                     |
 | 7.  | **[Concurrency Control and Multi-threading](/data/concurrencyControlAndMultiThreading.md)** |
+| 8.  | **[Declarations and Access Modifiers](/data/declarationsAndAccessModifiers.md)**            |
