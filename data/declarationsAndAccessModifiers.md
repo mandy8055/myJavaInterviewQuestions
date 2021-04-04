@@ -1,0 +1,6 @@
+# Declarations and Access modifiers in java class
+
+| SNO | Questions link                                                                                                                                                                                                                                      |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | [What is difference between the Inner Class and Sub Class?](https://github.com/learning-zone/java-interview-questions#q-what-is-difference-between-the-inner-class-and-sub-class)                                                                   |
+| 2.  | [Can we import same package/class two times? Will the JVM load the package twice at runtime?](https://github.com/learning-zone/java-interview-questions#q-can-we-import-same-packageclass-two-times-will-the-jvm-load-the-package-twice-at-runtime) |

@@ -3,3 +3,4 @@
 | SNO | Questions link                                                                                                                                                                                                                      |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.  | [A single try block and multiple catch blocks can co-exist in a Java Program. Explain.](https://www.interviewbit.com/java-interview-questions/#a-single-try-block-and-multiple-catch-blocks-can-co-exist-in-a-java-program-explain) |
+| 2.  | [What are the types of Exceptions? Explain the hierarchy of Java Exception classes?](https://github.com/learning-zone/java-interview-questions#q-what-are-the-types-of-exceptions-explain-the-hierarchy-of-java-exception-classes)  |
