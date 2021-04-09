@@ -9,3 +9,5 @@
 | 6.  | [What is the default value of the local variables?](https://github.com/learning-zone/java-interview-questions#q-what-is-the-default-value-of-the-local-variables)                                             |
 | 7.  | [Can you declare the main method as final?](https://github.com/learning-zone/java-interview-questions#q-can-you-declare-the-main-method-as-final)                                                             |
 | 8.  | [What is the difference between transient and volatile variable in Java?](https://github.com/learning-zone/java-interview-questions#q-what-is-the-difference-between-transient-and-volatile-variable-in-java) |
+| 9.  | [What are the ways to instantiate the Class class?](https://github.com/learning-zone/java-interview-questions#q-what-are-the-ways-to-instantiate-the-class-class)                                             |
+| 10. | [Do you know Generics? How did you used in your coding?](https://github.com/learning-zone/java-interview-questions#q-do-you-know-generics-how-did-you-used-in-your-coding)                                    |
