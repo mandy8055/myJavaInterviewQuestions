@@ -1,0 +1,10 @@
+# Flutter and Android Basic and advanced
+
+| SNO | QuestionsLink                                                                                                                                                                                                        |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | **[What is Dart and why does Flutter use it?](https://github.com/aershov24/flutter-interview-questions#q3-what-is-dart-and-why-does-flutter-use-it-)**                                                               |
+| 2.  | **[What is the difference between StatelessWidget and StatefulWidget?](https://github.com/power19942/flutter-interview-questions#flutter-questions-and-answers)**                                                    |
+| 3.  | **[What is a "widget" and mention its importance in Flutter? ](https://github.com/aershov24/flutter-interview-questions#q4-what-is-a-widget-and-mention-its-importance-in-flutter-)**                                |
+| 4.  | **[How is Flutter different from a WebView based application?](https://github.com/aershov24/flutter-interview-questions#q9-how-is-flutter-different-from-a-webview-based-application-)**                             |
+| 5.  | **[What is the pubspec.yaml file and what does it do? ](https://github.com/aershov24/flutter-interview-questions#q10-what-is-the-pubspecyaml-file-and-what-does-it-do-)**                                            |
+| 6.  | **[What is the difference between "main()" and "runApp()" functions in Flutter?](https://github.com/aershov24/flutter-interview-questions#q7-what-is-the-difference-between-main-and-runapp-functions-in-flutter-)** |

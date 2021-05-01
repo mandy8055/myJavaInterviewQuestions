@@ -1,15 +1,10 @@
-# Topic wise Java interview Questions
+# Topic wise important interview questions
 
-| SNO | Topics                                                                                      |
-| --- | ------------------------------------------------------------------------------------------- |
-| 1.  | **[Language fundamentals](/data/languageFundamentals.md)**                                  |
-| 2.  | **[Memory Management](/data/memoryManagement.md)**                                          |
-| 3.  | **[Object Oriented Programming Concepts](/data/oops.md)**                                   |
-| 4.  | **[Abstract classes and Interfaces](/data/abstractClassesAndInterfaces.md)**                |
-| 5.  | **[Exception Handling](/data/exceptionHandling.md)**                                        |
-| 6.  | **[Strings](/data/stringQuestions.md)**                                                     |
-| 7.  | **[Concurrency Control and Multi-threading](/data/concurrencyControlAndMultiThreading.md)** |
-| 8.  | **[Declarations and Access Modifiers](/data/declarationsAndAccessModifiers.md)**            |
-| 9.  | **[Miscellaneous](/data/miscellaneous.md)**                                                 |
-| 10. | **[Specific classes and packages in Java API](/data/javaAPISpecificPackages.md)**           |
-| 11. | **[Scenario Based questions](/data/scenarioBased.md)**                                      |
+| SNO | Topics                                                                                |
+| --- | ------------------------------------------------------------------------------------- |
+| 1.  | **[java](/data/javaQuestions/javaIndex.md)**                                          |
+| 2.  | **[Flutter and Android](/data/flutterAndAndroidQuestions/flutterAndAndroidIndex.md)** |
+| 3.  | **[MySQL](/data/mysqlQuestions/mysqlIndex.md)**                                       |
+| 4.  | **[javascript](/data/javascriptQuestions/javascriptIndex.md)**                        |
+| 5.  | **[node.js](/data/nodeQuestions/nodeIndex.md)**                                       |
+| 6.  | **[dart](/data/dartQuestions/dartIndex.md)**                                          |
